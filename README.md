@@ -45,7 +45,7 @@ Finally, note your Client Id and domain(e.g., https://example.plusauth.com) for 
 
 ## Getting Started
 
-First, we need to supply the required configuration values for the application. Rename `PlusAuth.example.plist` file, under the root folder, as `PlusAuth.plist`.
+First, we need to supply the required configuration values for the application. Rename `PlusAuth.example.plist` file, under the `plusauth-ios-starter` folder, as `PlusAuth.plist`.
 
 Then modify the values inside `PlusAuth.plist` file using your Client ID and your PlusAuth tenant name.
 

@@ -7,7 +7,7 @@
 		<key>clientId</key>
 		<string>CLIENT_ID</string>
 		<key>issuer</key>
-		<string>https://<TENANT_ID>.plusauth.com</string>
+		<string>https://TENANT_ID.plusauth.com</string>
 	</dict>
 </dict>
 </plist>
