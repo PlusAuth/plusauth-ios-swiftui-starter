@@ -49,6 +49,8 @@ First, we need to supply the required configuration values for the application. 
 
 Then modify the values inside `PlusAuth.plist` file using your Client ID and your PlusAuth tenant name.
 
+**NOTE:** This poject uses Swift Package Manager as dependency manager.
+
 That's all! Hit the 'Run' button in XCode to start the app.
 
 ## License
